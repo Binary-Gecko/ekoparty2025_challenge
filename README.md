@@ -14,7 +14,7 @@ Break this schema and get real code execution.
 Tip: you can use AI to help you, if you wish.  
 
 ## Expected solutions:
--Execute a Calculator/Notepad
--Python code only (without using external libraries)
--Working on Windows 10 and/or Windows 11
+- Execute a Calculator/Notepad
+- Python code only (without using external libraries)
+- Working on Windows 10 and/or Windows 11
 
